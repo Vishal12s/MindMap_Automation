@@ -9,7 +9,7 @@ Prerequisites:
 
 1. Install the &quot;graphviz&quot; Package:
 - To initiate the installation, execute the command: `pip install graphviz`
-- This package is pivotal for rendering the flowcharts effectively.
+- This package is pivotal for rendering the MindMaps effectively.
 
 2. Installing the Graphviz Module:
 - It is crucial to note that the &quot;graphviz&quot; package is not inherently part of basic Python files.
