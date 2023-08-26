@@ -1,5 +1,5 @@
 # MindMap_Automation
-Give the data in excel and it will be turned into mindmaps.<br> Note: The names should be distinct for the system to understand the difference
+Give the data in excel and it will be turned into mindmaps.<br> Note: The names should be distinct for the system to understand the difference<br>
 Automation of mindMaps: Installation Guide
 To guarantee a smooth implementation process, I am providing you with a comprehensive
 guide detailing the necessary dependencies and essential setup steps. Please refer to the
